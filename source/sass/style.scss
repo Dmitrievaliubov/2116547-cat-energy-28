@@ -1,1 +1,5 @@
-body { background: red; }
+@import "./main-header.scss";
+@import "./fonts.scss";
+@import "./main-container.scss";
+body { background:rgb(216, 16, 16); }
+
